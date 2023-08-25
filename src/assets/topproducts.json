@@ -1,0 +1,20 @@
+[
+    {
+        "pimage": "./topproducts/ro.png",
+        "name":"Reverse Osmosis Plant",
+        "desc": "This reverses osmosis system from Total Water Solution on the principle of using a semi permeable membrane. The membrane that is used, allows water to pass through, preventing the dissolved ions from passing the process ensuring that water is free from salts, micro organisms and other contaminants.",
+        "id":1
+    },
+    {
+        "pimage": "./topproducts/dm.png",
+        "name":"Demineralisation Plant",
+        "desc": "The process of removing virtually all dissolved solids from water & producing essentially pure water.",
+        "id":2
+    },
+    {
+        "pimage": "./topproducts/ef.png",
+        "name":"E.T.P",
+        "desc": "Providing best solutions in waste water sector with 15 year successful experience, design/ fabrication/ errection/ Installation and Commissioning in more then 5 countries.",
+        "id":3
+    }
+]
